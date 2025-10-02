@@ -17,4 +17,9 @@ It features hover effects, smooth transitions, and a clean modern layout.
 
 ## 📂 Project Structure
 
+responsive-sidebar-menu/
+│── index.html
+│── style.css
+│── images/
+│ └── photo.jpg
 
