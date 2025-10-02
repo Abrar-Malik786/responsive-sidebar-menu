@@ -1,7 +1,7 @@
  *{
     margin:0;
     padding:0;
-    font-family: "Poppins" , sans-serif;
+    font-family: "poppin" , sans-serif;
 }
 .main_box{
     background:url("images/photo.jpg");
@@ -107,17 +107,3 @@ box-shadow: 0 0 4px rgba(255,255 ,255,0.5) ;
     #check:checked ~ .sidebar_menu .btn_two i{
         opacity: 1;
         }  
-/* @media (max-width: 360px) {
-.sidebar_menu {
-    width: 80%; 
-}
-.sidebar_menu .logo a {
-    font-size: 18px;
-    left: 20px;
-}
-.btn_one i {
-    font-size: 25px;
-    left: 10px;
-}
-}
- */
